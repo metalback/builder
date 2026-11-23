@@ -1,0 +1,7 @@
+{
+  "name": "builder",
+  "owner": { "name": "Mauricio Beltrán" },
+  "plugins": [
+    { "name": "builder", "source": "./", "description": "Flujo agéntico de idea a PR." }
+  ]
+}

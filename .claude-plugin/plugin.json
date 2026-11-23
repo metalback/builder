@@ -1,0 +1,6 @@
+{
+  "name": "builder",
+  "version": "0.1.0",
+  "description": "Flujo agéntico de idea a PR: design sprint (PM + UI/UX con reflexión e impeccable), desarrollo TDD, QA con Playwright y revisión de ciberseguridad.",
+  "author": { "name": "Mauricio Beltrán" }
+}
